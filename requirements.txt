@@ -3,3 +3,4 @@ CX_oracle
 pandas
 sqlalchemy
 Flask
+libaio
